@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-<!--
-**mithuns/mithuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mithun Singh
 
+- I am a SRE with lots of experience in backend service development (java/c#/go)
+- Currently working as a Lead SRE with JPMC
+- Always looking to learn something new and build something
+- You can follow me on my journey at codersarc.com
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +17,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+`✨ skills ✨`  
+![Skills](https://skillicons.dev/icons?i=java,go,kubernetes,docker,gcp,aws&theme=light)
+
