@@ -5,7 +5,7 @@ I am Mithun Singh
 - I am a SRE with lots of experience in backend service development (java/c#/go)
 - Currently working as a Lead SRE with JPMC
 - Always looking to learn something new and build something
-- You can follow me on my journey at [codersarc.com](codersarc.com)
+- You can follow me on my journey at [codersarc.com](https://codersarc.com)
 <!--
 Here are some ideas to get you started:
 
